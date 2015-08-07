@@ -384,15 +384,21 @@ footer  {
     }
 
     h1  {
-        font-size: 120%;
+        font-size: 220%;
     }
 
     h2  {
-        font-size: 120%;
+        font-size: 140%;
+        font-weight: 500;
+    }
+
+    h3  {
+        font-size: 140%;
+        font-weight: 500;
     }
 
     p   {
-        font-size: 120%;
+        font-size: 140%;
     }
 
     .button-right  {
